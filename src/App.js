@@ -1,21 +1,23 @@
 import React from 'react';
-import {Grid} from "@material-ui/core";
+import {Grid, Button} from "@material-ui/core";
 import './App.css';
 
 function App() {
   return(
-      <Grid justify="center" container>
+      <div style={{backgroundColor: "blueviolet"}}>
+      <Grid container justify="center">
           <Grid item xs={12}>
-              <Grid container spacing={5}>
-                  <Grid>
-
+              <Grid container direction="column">
+                  <Grid item xs={12}>
+                      <div style={{backgroundColor:'black'}}>A</div>
                   </Grid>
-                  <Grid>
-
+                  <Grid item xs={12}>
+                      <div style={{backgroundColor:'yellow'}}>B</div>
                   </Grid>
               </Grid>
           </Grid>
       </Grid>
+      </div>
   );
 }
 
