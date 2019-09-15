@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82dd4fc8-37c8-45b3-8843-18daedad9da1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Confirmar/Confirmar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TipoIncidente/TipoIncidente.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TipoIncidente/TipoIncidente.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Confirmar/Confirmar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Confirmar/Confirmar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Views/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Confirmar/Confirmar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Termos/Termos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Confirmar/Confirmar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Termos/Termos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Instrucoes/Instrucoes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TipoIncidente/TipoIncidente.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TipoIncidente/TipoIncidente.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TipoIncidente/TipoIncidente.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TipoIncidente/TipoIncidente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\WebstormProjects\NullName\src\Components\Instrucoes" />
       <recent name="C:\Users\gabri\WebstormProjects\NullName\src\Components" />
       <recent name="C:\Users\gabri\WebstormProjects\NullName\src\Views" />
     </key>
@@ -85,7 +88,7 @@
       <workItem from="1568479828935" duration="1481000" />
       <workItem from="1568481964536" duration="1538000" />
       <workItem from="1568484813657" duration="2343000" />
-      <workItem from="1568506991215" duration="7315000" />
+      <workItem from="1568506991215" duration="12619000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,9 @@
 import React from 'react';
 import {Grid, Button, ButtonGroup} from "@material-ui/core";
-import './Confirmar.css';
+import './Termos.css';
 // import homeView from "./Home/homeView";
 
-function Confirmar() {
+function Termos() {
     return(
         <div className="Confirmar">
             <div className="Confirmar1">
@@ -13,12 +13,12 @@ function Confirmar() {
             <p>UTILIZE ESTA FUNCIONALIDADE COM RESPONSABILIDADE.</p>
 
                 <ButtonGroup size="large" variant="contained">
-                    <Button>Aceitar</Button>
-                    <Button>Rejeitar</Button>
+                        <Button onClick={() => {window.location.href='/TipoIncidente'}}>Confirmar</Button>
+                    <Button onClick={() => {window.location.href='/'}}>Rejeitar</Button>
                 </ButtonGroup>
             </div>
         </div>
     );
 }
 
-export default Confirmar;
+export default Termos;
