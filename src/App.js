@@ -1,11 +1,10 @@
 import React from 'react';
-import {Grid, Button} from "@material-ui/core";
 import './App.css';
-import Home from "./Views/Home";
+import Home from "./Components/Home/Home";
 
 function App() {
   return(
-      <div>
+      <div className="App-header">
           <Home/>
       </div>
   );
