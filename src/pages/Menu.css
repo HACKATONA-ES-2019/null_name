@@ -1,0 +1,37 @@
+.menu-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imsg{
+    width: 500px;
+    height: 400px;
+    max-width: 300px;
+    display: flex;
+    background: #000;
+}
+
+.bb {
+    width: 80%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bb button {
+    margin-top: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 48px;
+    font-size: 16px;
+    background: #DF4723;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.bba {
+    margin-top: 300px;
+}

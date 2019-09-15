@@ -1,0 +1,58 @@
+.tela1-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bb {
+    width: 80%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonController1 {
+    margin-top: 50px;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.buttonController2 {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.bb p {
+    margin-top: 20px;
+}
+.buttonController1 button {
+    margin-left: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 62px;
+    width: 160px;
+    font-size: 16px;
+    background: #DF4723;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.buttonController2 button {
+    margin-left: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 62px;
+    width: 160px;
+    font-size: 16px;
+    background: #DF4723;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}

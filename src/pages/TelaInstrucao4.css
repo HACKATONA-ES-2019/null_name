@@ -1,0 +1,36 @@
+.menu-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bb {
+    width: 80%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonController {
+    margin-top: 180px;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bb p {
+    margin-top: 20px;
+}
+.buttonController button {
+    margin-top: 10px;
+    border: 0;
+    border-radius: 4px;
+    height: 42px;
+    font-size: 16px;
+    background: #DF4723;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
